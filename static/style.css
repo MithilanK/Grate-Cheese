@@ -1,0 +1,122 @@
+
+body {
+  background-color:#f1c232ff
+}
+
+.Home {
+  text-align:center;
+  padding-top:3vw;
+}
+.HomeButton{
+  
+  
+  padding: 2vw;
+
+  padding-left:5vw;
+  padding-right:5vw;
+  
+  border: none;
+  border-radius:3vw;
+  border-color:#be5b1eff;
+  background-color:#be5b1eff;
+  outline:none;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size:3vw;
+  font-weight:bold;
+  color:#ffab40ff;
+
+
+  
+}
+
+.HomeButton:Hover {
+  padding: 3vw;
+
+  padding-left:6vw;
+  padding-right:6vw;
+  
+  border: none;
+  border-radius:3vw;
+  border-color:#be5b1eff;
+  background-color:#be5b1eff;
+  outline:none;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size:4vw;
+  font-weight:bold;
+  color:#ffab40ff;
+}
+
+.headtext {
+
+  color:#be5b1eff;
+
+  
+  font-family: 'Open Sans', sans-serif;
+  font-size:8vw;
+  font-weight:bold;
+  
+}
+
+.loginForm {
+  font-family: 'Open Sans', sans-serif;
+  color:#be5b1eff;
+
+}
+
+.formPrompt {
+    font-size:3vw;
+  font-weight:bold;
+}
+
+.formInput{
+  background-color:#be5b1eff;
+  font-color:#ffab40ff; 
+  border:none;
+  font-size:3vw;
+  height:3vw;
+  width:20vw;
+}
+
+
+.LoginButton{
+  
+  
+  padding: 1vw;
+
+  padding-left:4vw;
+  padding-right:4vw;
+  
+  border: none;
+  border-radius:3vw;
+  border-color:#be5b1eff;
+  background-color:#be5b1eff;
+  outline:none;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size:2vw;
+  font-weight:bold;
+  color:#ffab40ff;
+
+
+  
+}
+
+.LoginButton:Hover {
+  padding: 2vw;
+
+  padding-left:5vw;
+  padding-right:5vw;
+  
+  border: none;
+  border-radius:4vw;
+  border-color:#be5b1eff;
+  background-color:#be5b1eff;
+  outline:none;
+
+  font-family: 'Open Sans', sans-serif;
+  font-size:3vw;
+  font-weight:bold;
+  color:#ffab40ff;
+}
